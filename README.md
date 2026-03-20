@@ -17,8 +17,8 @@ modernos e cria uma base de conhecimento inteligente para suporte ao cliente.
 - Pytest
 
 ## Etapas
-- [ ] Fase 1 — Setup e estrutura do projeto
-- [ ] Fase 2 — EDA e preparação dos dados
+- [x] Fase 1 — Setup e estrutura do projeto
+- [x] Fase 2 — EDA e preparação dos dados
 - [ ] Fase 3 — Classificador de Sentimentos com BERT
 - [ ] Fase 4 — Sistema RAG com LangChain
 - [ ] Fase 5 — Interface e Deploy
